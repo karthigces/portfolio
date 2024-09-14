@@ -2,9 +2,9 @@
 
 Welcome to my personal portfolio! 🌟 Here, you can explore my work, projects, and achievements. Feel free to check out my static website deployed on AWS S3 and built with the help of GitHub Actions.
 
-## 🌐 Website
+## 🌐 S3 Static Website
 
-You can view my portfolio here: [**Personal Portfolio**](http://karthigces.s3-website-us-east-1.amazonaws.com/)
+You can view my portfolio here: [**http://karthigces.s3-website-us-east-1.amazonaws.com/**](http://karthigces.s3-website-us-east-1.amazonaws.com/)
 
 ## 🚀 Features
 
@@ -65,6 +65,4 @@ Special thanks to the open-source community for their contributions and inspirat
 ---
 
 *Happy browsing! 🎉*
-
-![Portfolio Screenshot](https://via.placeholder.com/1200x600.png?text=Your+Portfolio+Screenshot) <!-- Replace with an actual screenshot of your portfolio -->
 
