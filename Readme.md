@@ -55,8 +55,8 @@ Feel free to explore my code for inspiration and adapt it to suit your needs!
 
 Feel free to reach out if you have any questions or suggestions:
 
-- **Email**: [your-email@example.com](mailto:karthigces@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/karthigces)
+- **Email**: [karthigces@gmail.com](mailto:karthigces@gmail.com)
+- **LinkedIn**: [Karthi's LinkedIn Profile](https://www.linkedin.com/in/karthigces)
 
 ## 💡 Inspiration
 
